@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+verisync.db
+captures/
+
+*.mp4
+*.wav
+*.csv
+
+.streamlit/secrets.toml
+.streamlit/secrets.toml.txt

@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+verisync.db
+captures/
+__pycache__/
+*.pyc
